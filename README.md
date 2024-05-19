@@ -1,7 +1,7 @@
 ### Habit Tracking App
 
 #### Live Demo
-Check out the live demo of the Habit Tracking App [here](https://habitrick.netlify.app/).
+Check out the live demo of the Habit Tracking App [here](https://habittracker-reactjs.onrender.com/).
 
 #### Overview
 This Habit Tracking App allows users to add and track multiple habits on a daily basis. Users can mark each habit as done, not done, or none for each day. The app provides views to display all current habits and track their status over the past seven days.
@@ -75,5 +75,4 @@ To run the app locally, clone the repository and install dependencies using npm 
 #### Usage
 Once the app is running, navigate to the specified URL (default is `http://localhost:3000/`) to access the Habit Tracking App. Add habits, track their status, and view the history to stay organized and accountable.
 
-#### Author
-Nitesh Katoch
+![image](https://github.com/chandrika-2112/HabitTracker-ReactJs/assets/120263733/87945d1b-e6e5-43fe-8dba-5d768fd77931)
